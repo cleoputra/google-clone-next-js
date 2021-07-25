@@ -27,7 +27,6 @@ function Header() {
             width={120}
             className="cursor-pointer"
             onClick={() => router.push("/")}
-            className="cursor-pointer"
             />
 
             <form className="flex px-6 py-3 ml-10 m r-5 border border-gray-200 rounded-full flex-grow shadow-lg max-w-3xl items-center">

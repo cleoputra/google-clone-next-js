@@ -64,7 +64,7 @@ export default function Home() {
       <div className="flex flex-col w-1/2 space-y-2 justify-center mt-8 sm:space-y-0 sm:flex-row sm:space-x-4">
         <button onClick={search} className="bg-[f8f9fa] p-3 rounded-md ring-gray-200 text-sm text-gray-800 hover:ring-1 focus:outline-none active:ring-gray-300 hover:shadow-md">Google Search</button>
 
-        <button onClick={search} className="bg-[f8f9fa] p-3 rounded-md ring-gray-200 text-sm text-gray-800 hover:ring-1 focus:outline-none active:ring-gray-300 hover:shadow-md">I'm Feeling Lucky</button>
+        <button onClick={search} className="bg-[f8f9fa] p-3 rounded-md ring-gray-200 text-sm text-gray-800 hover:ring-1 focus:outline-none active:ring-gray-300 hover:shadow-md">I&apos;m Feeling Lucky</button>
       </div>
       </form>
       
